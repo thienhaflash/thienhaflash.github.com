@@ -1,0 +1,10 @@
+a.wpcom-follow-rest, a.wpcom-following-rest,
+a.wpcom-follow, a.wpcom-following{display:block !important;width:50px !important;float:right !important;margin:10px 0 0 20px !important;padding:1px 6px 0 26px !important;font-family:sans-serif !important;color:#777 !important;background:url("/wp-content/mu-plugins/admin-bar/wpcom-admin-bar-icons.png?3") no-repeat scroll 8px -160px transparent !important;font-size:11px !important;font-family:"Helvetica", Arial, Tahoma, sans-serif !important;line-height:1em !important;}a.wpcom-follow-rest:hover, a.wpcom-following-rest:hover,
+a.wpcom-follow:hover, a.wpcom-following:hover{text-decoration:none !important;color:#21759b !important;text-decoration:none !important;}a.wpcom-following-rest,
+a.wpcom-following{background:url("/wp-content/mu-plugins/admin-bar/wpcom-admin-bar-icons.png?3") no-repeat scroll 8px -760px transparent !important;}.gen_reblog_note .avatar,
+.gen_liked_note .avatar,
+.gen_followed_note .avatar{float:left;clear:left;margin:0 10px 0 0 !important;}.gen_reblog_note .note-body p.reblogger,
+.gen_liked_note .note-body p.liker,
+.gen_followed_note .note-body p.follower{clear:both;line-height:2.5em !important;margin:5px 0 !important;}.gen_reblog_note p.reblogger img.avatar:hover,
+.gen_liked_note p.liker img.avatar:hover,
+.gen_followed_note p.follower img.avatar:hover{position:relative;z-index:10;margin-right:7px !important;margin-top:-3px !important;margin-left:-3px !important;border:3px solid #fff;-moz-box-shadow:0 1px 3px rgba(0,0,0,0.4);-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.4);box-shadow:0px 1px 3px rgba(0,0,0,.4);}
